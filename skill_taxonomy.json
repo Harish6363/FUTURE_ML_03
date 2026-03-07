@@ -1,0 +1,17 @@
+﻿{
+  "python": ["python", "python3"],
+  "sql": ["sql", "postgresql", "mysql", "sqlite"],
+  "machine_learning": ["machine learning", "ml", "supervised learning", "unsupervised learning"],
+  "deep_learning": ["deep learning", "neural network", "cnn", "rnn", "transformer"],
+  "nlp": ["nlp", "natural language processing", "text mining", "bert", "spacy", "nltk"],
+  "data_analysis": ["data analysis", "data analytics", "analysis", "eda", "statistics"],
+  "pandas": ["pandas"],
+  "scikit_learn": ["scikit-learn", "sklearn"],
+  "tensorflow": ["tensorflow", "tf"],
+  "pytorch": ["pytorch", "torch"],
+  "visualization": ["matplotlib", "seaborn", "plotly", "tableau", "power bi"],
+  "cloud": ["aws", "azure", "gcp", "cloud"],
+  "deployment": ["docker", "kubernetes", "fastapi", "flask", "api deployment", "mlops"],
+  "communication": ["communication", "stakeholder management", "presentation"],
+  "git": ["git", "github", "gitlab"]
+}

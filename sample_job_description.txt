@@ -1,0 +1,4 @@
+﻿We are hiring a Machine Learning Engineer for an AI hiring platform.
+Required skills: Python, machine learning, NLP, scikit-learn, SQL, Git.
+Nice to have: cloud (AWS/GCP), deployment (Docker/Kubernetes), deep learning.
+Candidates should have at least 2 years of experience and strong communication.
